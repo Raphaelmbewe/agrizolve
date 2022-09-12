@@ -1,18 +1,20 @@
 > This is a simple Movie UI, made in with Html, css and bootstrap <br/> the contribution guidelines are as follows;
 <br/>
  # 1: Fork the repo.
- <br/>
+ 
  # 2: start the repo.
- <br/>
+ 
  # 3: make a separate branch with the name that corresponds to the issue picked.
- <br/>
+ 
  # 4: open PR/MR to development.
- <br/>
+ 
  # 5: write meaningful commit messages.
- <br/>
+ 
  # 6: wait for your current opened PR/MR to merged before moving to the next issue.
+ 
+ # 7: all page components must be responsive.
+ 
  <br/>
- ### all page components must be responsive.<br/>
 
 > Be creative have fun ask questions were not clear.
 
