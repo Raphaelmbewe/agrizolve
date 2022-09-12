@@ -1,5 +1,6 @@
 > This is a simple Movie UI, made in with Html, css and bootstrap <br/> the contribution guidelines are as follows;
-<br/>
+
+
  # 1: Fork the repo.
  
  # 2: start the repo.
