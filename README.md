@@ -2,7 +2,7 @@
 
 ## CONTENTS
 1. [About](#About)
-2. [DEV CONTRIBUTIONS] (https://github.com/thompsonmanda08/agrizolve/blob/main/CONTRIBUTING.md)
+2. [DEV CONTRIBUTIONS](https://github.com/thompsonmanda08/agrizolve/blob/main/CONTRIBUTING.md)
 3. DONATIONS
 4. RULES
 
