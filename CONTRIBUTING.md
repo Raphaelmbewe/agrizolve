@@ -1,9 +1,13 @@
-> This is a simple Movie UI, made in with Html, css and bootstrap <br/> the contribution guidelines are as follows;
-
+> An open-source platform to share ideas, insights & solutions on agricultural challenges <br/> that different individuals face in various regions.
 
  # 1: Fork the repo.
+	At this point you will have your own version of the repo
+
+ # 2: Clone the original repo [AGRIZOLVE](git@github.com:Raphaelmbewe/agrizolve.git).
+	As remote, this will be your "origin" on your local machine
  
- # 2: start the repo.
+ # 3: Add a new remote using the command `git remote add [name] [YOUR FORKED REPO URL]`.
+	This remote is where you will make your commits to and you can choose to either open PR/MR as well as stay in sync with the `origin`.
  
  # 3: make a separate branch with the name that corresponds to the issue picked.
  
@@ -24,11 +28,11 @@
 ### FOLLOW THE URL TO SEE THE DESIGN ON FIGMA 👇
 <br/>
 
-[UI](https://www.figma.com/file/Gk4dXCg3tW1WvvjHsEWCMM/Movie-app-(Community)?node-id=401%3A35)
+[UI](https://www.figma.com)
 
 ### FOLLOW THE URL TO SEE THE FULL UI IN ACTION ON FIGMA 👇
 
-[PLAY](https://www.figma.com/proto/Gk4dXCg3tW1WvvjHsEWCMM/Movie-app-(Community)?node-id=401%3A35&scaling=min-zoom&page-id=401%3A32&starting-point-node-id=401%3A35)
+[COMING SOON](https://www.figma.com/proto/)
 
 
 > HAVE FUN 🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳
