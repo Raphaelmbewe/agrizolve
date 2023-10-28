@@ -5,7 +5,7 @@
 1. [About](https://github.com/thompsonmanda08/agrizolve/blob/main/ABOUT_AGRIZOLVE.md)
 2. [DEV CONTRIBUTIONS](https://github.com/thompsonmanda08/agrizolve/blob/main/CONTRIBUTING.md)
 3. [DONATIONS](https://github.com/Raphaelmbewe/agrizolve/blob/raph/donations/DONATIONS.md)
-4. RULES
+4. [RULES](https://github.com/thompsonmanda08/agrizolve/blob/main/RULES.md)
 5. [FRONTEND DESIGN](https://github.com/Raphaelmbewe/agrizolve/blob/raph/donations/FONTEND.md)
 
 ## Getting Started
