@@ -1,49 +1,29 @@
 # AGRIZOLVE PROJECT
 
 ## CONTENTS
-1. [About](#About)
+
+1. [About](https://github.com/thompsonmanda08/agrizolve/blob/main/ABOUT_AGRIZOLVE.md)
 2. [DEV CONTRIBUTIONS](https://github.com/thompsonmanda08/agrizolve/blob/main/CONTRIBUTING.md)
 3. [DONATIONS](https://github.com/Raphaelmbewe/agrizolve/blob/raph/donations/DONATIONS.md)
-4. RULES
+4. [RULES](https://github.com/thompsonmanda08/agrizolve/blob/main/RULES.md)
 5. [FRONTEND DESIGN](https://github.com/Raphaelmbewe/agrizolve/blob/raph/donations/FONTEND.md)
 
-### About
-Introducing "Agrizolve" – Your Go-To Agri-Tech Collaboration Platform!
+## Getting Started
 
-🌱 Are you a tech-savvy farmer, an agri-enthusiast, or a developer with a passion for agriculture? Dive into the future of farming with Agrizolve, 
-the revolutionary open-source app designed to empower farmers and agri-tech enthusiasts worldwide!
+We have step up both the frontend as well as the backend folders inside on repository.
+However each of these will be hosted by separate entities. So even as you clone the repo, in the case that your PR/MR
+has to do with both frontend and backend you will need to run the servers separately
 
-🚜 Agrizolve is your digital field, where agricultural challenges meet innovative solutions. Whether you're facing crop diseases, irrigation dilemmas, 
-pest invasions, or simply seeking smarter farming practices, Agrizolve brings the global agriculture community together to share knowledge, collaborate, and help you reap the rewards.
+### For the FRONTEND -> Running the Server (Next.JS):
 
-🤝 Here's why you should join the Agrizolve movement:
+- After you have Cloned the Repo, Run the Commands:
+  > `cd agrizolve-frontend` -> To move into the frontend folder
+  > `yarn install` or `npm install` -> to install all the packages
+  > `yarn dev` or `npm run dev` -> to start the server on a localhost port
 
-🌾 Agricultural Collaboration Hub: Connect with farmers, experts, and developers who share your love for agriculture. 
-Post your pressing problems, and together, we'll craft solutions that nurture your crops to success.
+### For the BACKEND -> Running the Server (JAVA (SpringBoot / C# / Django)):
 
-🔍 In-Depth Insights: Discover a treasure trove of expert advice, tried-and-tested solutions, and cutting-edge technologies. 
-Get the lowdown on the latest agricultural research and best practices.
-
-🌟 Vote for Excellence: Elevate the most helpful answers by upvoting them. With our reputation system, the best solutions rise to the top, 
-ensuring you receive the most reliable advice.
-
-🌎 Global Knowledge Hub: Agrizolve transcends borders, bridging the knowledge gap in agriculture worldwide.
-Share your insights, and contribute to the global agricultural community's growth.
-
-📚 Open Source Power: Agrizolve is more than an app; it's a movement! Join hands with like-minded developers, 
-code wizards, and data scientists to expand the platform and revolutionize farming for everyone.
-
-🔐 Secure and Privacy-Focused: Rest assured, your data and identity are safeguarded. Agrizolve prioritizes your privacy and data security.
-
-🌿 Sow the Seeds of Innovation: Agrizolve is where the past, present, and future of agriculture converge. 
-Together, we cultivate solutions, embracing technology to help farmers thrive.
-
-🌈 Be Part of the Solution: Join Agrizolve today, and let's reimagine agriculture, one problem at a time. 
-Together, we'll ensure that the world's food supply remains sustainable, reliable, and abundant.
-
-🌟 Unlock the Green Revolution: Download Agrizolve and become a part of the agricultural evolution. 
-Let's sow the seeds of innovation and cultivate a brighter, greener future, together.
-
-Join the Agrizolve community now and help us transform agriculture into a thriving ecosystem of knowledge, innovation, 
-and growth! Let's make farming smarter, sustainable, and more bountiful. 
-🌍🌾📱 #Agrizolve #SmartFarming #OpenSourceAgriTech
+- Backend Architecture is yet top be decided. As soon as the lead team has settled on what will complete the stack,
+  this section will be updated like wise. However if you want to participate and you feel a certain tool is what we may need
+  to make this project a reality the feel free to reach out on the email address: [interwebbbc@gmail.com](mailto:interwebbbc@gmail.com)
+  >
