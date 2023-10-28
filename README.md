@@ -5,6 +5,7 @@
 2. [DEV CONTRIBUTIONS](https://github.com/thompsonmanda08/agrizolve/blob/main/CONTRIBUTING.md)
 3. [DONATIONS](https://github.com/Raphaelmbewe/agrizolve/blob/raph/donations/DONATIONS.md)
 4. RULES
+5. [FRONTEND DESIGN](https://github.com/Raphaelmbewe/agrizolve/blob/raph/donations/FONTEND.md)
 
 ### About
 Introducing "Agrizolve" – Your Go-To Agri-Tech Collaboration Platform!
